@@ -1,6 +1,6 @@
-- 👀 Hello World, I am Flitzs, a high-schooler from Brazil learning and applying 
+- 👀 Hello World, I am Flitzs, a med school student from UFBA, Brazil, learning and applying 
 various tools in order to make my surroundings a better place.
-- 🌱I am currently learning python, selenium, JS, react.js, node.js, three.js, HTML and CSS
+- 🌱I am currently learning python for bioinformatics and drug discovery and a bit of data science.
 - 📫 If anyone wants to reach out to me send me an email at joaovitorbprs@gmail.com or dm me at discord Flitz#6460
 
 
